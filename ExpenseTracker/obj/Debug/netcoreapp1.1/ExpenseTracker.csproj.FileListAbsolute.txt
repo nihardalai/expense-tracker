@@ -1,0 +1,6 @@
+C:\Users\nihar\Source\Repos\expense-tracker\ExpenseTracker\bin\Debug\netcoreapp1.1\ExpenseTracker.deps.json
+C:\Users\nihar\Source\Repos\expense-tracker\ExpenseTracker\bin\Debug\netcoreapp1.1\ExpenseTracker.runtimeconfig.json
+C:\Users\nihar\Source\Repos\expense-tracker\ExpenseTracker\bin\Debug\netcoreapp1.1\ExpenseTracker.runtimeconfig.dev.json
+C:\Users\nihar\Source\Repos\expense-tracker\ExpenseTracker\bin\Debug\netcoreapp1.1\ExpenseTracker.dll
+C:\Users\nihar\Source\Repos\expense-tracker\ExpenseTracker\obj\Debug\netcoreapp1.1\ExpenseTracker.csprojResolveAssemblyReference.cache
+C:\Users\nihar\Source\Repos\expense-tracker\ExpenseTracker\obj\Debug\netcoreapp1.1\ExpenseTracker.AssemblyInfo.cs
